@@ -1,4 +1,8 @@
 {
+    "name": "grzegorz-bach/php-katas",
+    "description": "PHP Katas made with php unit as part of laracast course",
+    "license": "MIT",
+    
     "autoload": {
         "psr-4": {
             "App\\": "src/"
